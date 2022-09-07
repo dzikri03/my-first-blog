@@ -1,0 +1,131 @@
+ /*percobaan gak dikasih (*) bintang*/
+ body {
+	background-image: url(image/restaurant.png);
+	background-color: lightgrey;
+	font: 18px/29px monospace;
+	color: dodgerblue;
+	width: 800px;
+	margin: auto;
+}
+
+.b {
+	background-color: #fff;
+	padding: 10px;
+}
+
+h1 {
+	background-color: white;
+	width: 790px;
+	margin-top: -5px;
+}
+
+.h {
+	display: inline-block;
+}
+
+nav a {
+	margin-right: 5px;
+}
+
+a {
+	color: dodgerblue;
+	text-decoration: none;
+}
+
+a:hover {
+	color: white;
+	background-color: deepskyblue;
+	padding: 5px;
+	transition: .1s ease-in-out;
+	transition-delay: .010s;
+	border-radius: 7px;
+}
+
+a:active {
+	color: cyan;
+	background-color: dodgerblue;
+}
+
+.b svg {
+	float: right;
+	margin-top: -50px;
+}
+
+.hero {
+	height: 350px;
+	width: 770px;
+	padding-right: 30px;
+	background-image: url(image/food.jpg);
+	background-size: cover;
+	background-position: 0 -530px;
+	border-top: 5px solid deepskyblue;
+	border-bottom: 5px solid dodgerblue;
+
+}
+
+.c {
+	padding: 10px;
+	background-image: url(image/blob.svg);
+	background-color: #fff;
+	text-indent: 50px;
+	text-align: justify;
+}
+
+.c li {
+	margin-top: -10px;
+}
+
+.c svg {
+	float: right;
+	margin: -79px;
+	margin-right: -125px;
+}
+
+.c .z {
+	margin-right: -85px;
+}
+
+img {
+	float: right;
+	margin-top: -90px;
+	margin-right: -10px;
+}
+
+.d {
+	background-color: white;
+	margin-top: -20px;
+}
+
+.d p {
+	padding-top: 10px;
+	margin-top: 20px;
+	margin-bottom: -50px;
+	text-align: justify;
+	/* text-indent: 50px; */
+}
+
+.e {
+	margin-left: 10px;
+	margin-right: 10px;
+	text-indent: 0px;
+}
+
+ .d .footer {
+ 	margin-top: -60px;
+	text-align:center;
+	width: 800px;
+	color: white;
+}
+
+.footer a {
+	color: white;
+}
+
+.footer a:hover {
+	color: dodgerblue;
+	background-color: white;
+	font-weight: bold;
+}
+
+
+ 
